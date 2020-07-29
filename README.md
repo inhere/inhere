@@ -29,3 +29,16 @@ I an @inhere, nice to meet you!
 ## Github Stats
 
 [![inhere's github stats](https://github-readme-stats.vercel.app/api?username=inhere&show_icons=true&theme=gruvbox)](https://github.com/inhere)
+
+## Pinned Projects
+
+
+ . | .
+--------|-------
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gookit&repo=color&theme=vue)](https://github.com/gookit/color) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gookit&repo=rux&theme=vue)](https://github.com/gookit/rux)
+
+
+
+
+
+
