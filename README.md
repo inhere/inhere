@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone 👋
 
 <!--
 **inhere/inhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,23 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I an @inhere, nice to meet you!
-
 - 🔭 I’m currently working on Earth
 - 🌱 I’m currently learning Go,Java
 - 👯 I am participating in the contribution project: [Gookit](https://github.com/gookit) [Swoft](https://github.com/swoft-cloud)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ## Github Stats
 
 [![inhere's github stats](https://github-readme-stats.vercel.app/api?username=inhere&show_icons=true&theme=gruvbox)](https://github.com/inhere)
 
 ## Pinned Projects
-
 
  . | .
 --------|-------
