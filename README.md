@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Earth
+- 🌱 I’m currently learning Go,Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 👯 I am participating in the contribution project: [Gookit](https://github.com/gookit) [Swoft](https://github.com/swoft-cloud)
 -->
-
-- 🔭 I’m currently working on Earth
-- 🌱 I’m currently learning Go,Java
-
-
-## Github Stats
 
 [![inhere's github stats](https://github-readme-stats.vercel.app/api?username=inhere&show_icons=true&theme=gruvbox)](https://github.com/inhere)
 
