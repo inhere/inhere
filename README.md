@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 I an @inhere, nice to meet you!
 
-
 - 🔭 I’m currently working on Earth
 - 🌱 I’m currently learning Go,Java
-- 👯 I’m looking to collaborate on @gookit @swoft-cloud
+- 👯 I’m looking to collaborate on [Gookit](https://github.com/gookit) [Swoft](https://github.com/swoft-cloud)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -29,4 +28,4 @@ I an @inhere, nice to meet you!
 
 ## Github Stats
 
-[![inhere's github stats](https://github-readme-stats.vercel.app/api?username=inhere)](https://github.com/inhere)
+[![inhere's github stats](https://github-readme-stats.vercel.app/api?username=inhere&show_icons=true&theme=gruvbox)](https://github.com/inhere)
