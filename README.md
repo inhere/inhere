@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I am participating in the contribution project: [Gookit](https://github.com/gookit) [Swoft](https://github.com/swoft-cloud)
 -->
 
-[![inhere's github stats](https://github-readme-stats.vercel.app/api?username=inhere&show_icons=true&theme=gruvbox)](https://github.com/inhere)
+[![inhere's github stats](https://github-readme-stats.vercel.app/api?username=inhere&show_icons=true&theme=)](https://github.com/inhere)
 
 ## Pinned Projects
 
