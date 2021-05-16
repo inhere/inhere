@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 [![inhere's github stats](https://github-readme-stats.vercel.app/api?username=inhere&show_icons=true&theme=)](https://github.com/inhere)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=inhere&layout=compact)
 
 ## Pinned Projects
 
