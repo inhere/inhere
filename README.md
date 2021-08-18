@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## Pinned Projects
 
- . | .
+ _ | _
 --------|-------
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gookit&repo=color&theme=vue)](https://github.com/gookit/color) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gookit&repo=rux&theme=vue)](https://github.com/gookit/rux)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gookit&repo=color)](https://github.com/gookit/color) | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gookit&repo=rux)](https://github.com/gookit/rux)
 
 
 
