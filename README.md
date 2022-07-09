@@ -16,8 +16,19 @@ Here are some ideas to get you started:
 - 👯 I am participating in the contribution project: [Gookit](https://github.com/gookit) [Swoft](https://github.com/swoft-cloud)
 -->
 
+
 [![inhere's github stats](https://github-readme-stats.vercel.app/api?username=inhere&show_icons=true&theme=)](https://github.com/inhere)
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=inhere&layout=compact)
+
+
+## 🚀💻 Technologies & Tools
+
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+  ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+  ![Go](https://img.shields.io/badge/Go-blue?style=flat-square&logo=go)
 
 ## My Organizations
 
