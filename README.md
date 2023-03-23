@@ -48,3 +48,11 @@ Here are some ideas to get you started:
 [gookit_validate_card]: https://github-readme-stats.vercel.app/api/pin/?username=gookit&repo=validate&show_owner=true
 
 
+## Contribuited Projects
+
+|  |  |
+|--------|-------|
+[![ReadMe Card][swoft_card]](https://github.com/swoft-cloud/swoft) | [![ReadMe Card][openjob_card]](https://github.com/open-job/openjob) 
+
+[swoft_card]: https://github-readme-stats.vercel.app/api/pin/?username=swoft-cloud&repo=swoft&show_owner=true
+[openjob_card]: https://github-readme-stats.vercel.app/api/pin/?username=open-job&repo=openjob&show_owner=true
