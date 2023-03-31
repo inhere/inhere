@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=inhere&layout=compact)
 
 
+<div align="left">
+  <!-- GitHub 奖杯🏆 -->
+  <img  src="https://github-profile-trophy.vercel.app/?username=inhere&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+</div>
+  
 ## 🚀💻 Technologies & Tools
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
