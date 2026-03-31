@@ -35,16 +35,56 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=inhere&repo=markview
+          options: username=inhere&repo=markview&show_owner=true
           path: profile/pin-inhere-markview.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate wakatime
+      - name: Generate pin gookit-color
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: wakatime
-          options: username=inhere&layout=compact
-          path: profile/wakatime-inhere.svg
+          card: pin
+          options: username=gookit&repo=color&show_owner=true
+          path: profile/pin-gookit-color.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin gookit-config
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=gookit&repo=config&show_owner=true
+          path: profile/pin-gookit-config.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin gookit-goutil
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=gookit&repo=goutil&show_owner=true
+          path: profile/pin-gookit-goutil.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin gookit-gcli
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=gookit&repo=gcli&show_owner=true
+          path: profile/pin-gookit-gcli.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin gookit-slog
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=gookit&repo=slog&show_owner=true
+          path: profile/pin-gookit-slog.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin gookit-validate
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=gookit&repo=validate&show_owner=true
+          path: profile/pin-gookit-validate.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
