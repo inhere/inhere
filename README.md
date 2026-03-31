@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="left">
   <!-- GitHub 奖杯🏆 -->
-  <img  src="https://github-profile-trophy.vercel.app/?username=inhere&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+  <img  src="https://github-profile-trophy-liard-delta.vercel.app/?username=inhere&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 </div>
   
 ## 🚀💻 Technologies & Tools
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 |  |  |
 |--------|-------|
-[![ReadMe Card][gookit_color_card]](https://github.com/gookit/color) | [![ReadMe Card][gookit_rux_card]](https://github.com/gookit/rux) 
+[![ReadMe Card][gookit_color_card]](https://github.com/gookit/color) | [![ReadMe Card][gookit_slog_card]](https://github.com/gookit/slog) 
 [![ReadMe Card][gookit_gcli_card]](https://github.com/gookit/gcli) |  [![ReadMe Card][gookit_goutil_card]](https://github.com/gookit/goutil) 
 [![ReadMe Card][gookit_validate_card]](https://github.com/gookit/validate) |  [![ReadMe Card][gookit_config_card]](https://github.com/gookit/config) 
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 [gookit_config_card]: ./profile/pin-gookit-config.svg
 [gookit_gcli_card]: ./profile/pin-gookit-gcli.svg
 [gookit_goutil_card]: ./profile/pin-gookit-goutil.svg
-[gookit_rux_card]: ./profile/pin-gookit-rux.svg
+[gookit_slog_card]: ./profile/pin-gookit-slog.svg
 [gookit_validate_card]: ./profile/pin-gookit-validate.svg
 
 
