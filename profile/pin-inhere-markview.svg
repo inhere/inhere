@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">MarkView is a zero-config Markdown preview server powered</tspan><tspan dy="1.2em" x="25">by Go.</tspan>
+      <tspan dy="1.2em" x="25">MarkView is a zero-config Markdown preview server powered by Go. &#19968;&#20010;&#38646;&#37197;&#32622;&#30340; Markdown &#39044;&#35272;&#26381;&#21153;&#22120;</tspan><tspan dy="1.2em" x="25">&#20351;&#29992;&#21333;&#20010;&#21487;&#25191;&#34892;&#31243;&#24207;&#25552;&#20379;&#21151;&#33021;&#12290;</tspan>
     </text>
 
     <g transform="translate(30, 65)">
