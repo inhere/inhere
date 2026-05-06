@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Earth
-- 🌱 I’m currently learning Go,Java
+- 🌱 I’m currently learning AI, Go, Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -36,11 +36,14 @@ Here are some ideas to get you started:
 
 ## Projects
 
-[![ReadMe Card][inhere_markview_card]](https://github.com/inhere/markview)
+### 🛠️ Small Tools 小工具
 
-[inhere_markview_card]: ./profile/pin-inhere-markview.svg
+- [inherelab/eget](https://github.com/inherelab/eget) Easily install prebuilt binaries from GitHub. 从 GitHub, GitLab, Gitea 等轻松安装预构建的二进制文件
+- [inhere/skillc](https://github.com/inhere/skillc) Single binary file, a local Skill management tool for the multi-Agent ecosystem. 单二进制文件，面向多 Agent 生态的本地 Skill 管理工具
+- [inhere/markview](https://github.com/inhere/markview) MarkView is a zero-config Markdown preview server powered by Go. 一个零配置的 Markdown 预览服务器，使用单个可执行程序提供功能。
+- [inhere/homepagex](https://github.com/inhere/homepagex) 一个非常轻量的类似 Homer 的导航主页，使用 Go + Svelte 实现
 
-### [Gookit](https://github.com/gookit) Projects
+## [Gookit](https://github.com/gookit) Projects
 
 |  |  |
 |--------|-------|
@@ -55,13 +58,6 @@ Here are some ideas to get you started:
 [gookit_goutil_card]: ./profile/pin-gookit-goutil.svg
 [gookit_slog_card]: ./profile/pin-gookit-slog.svg
 [gookit_validate_card]: ./profile/pin-gookit-validate.svg
-
-### Small tools 小工具
-
-- [inherelab/eget](https://github.com/inherelab/eget) Easily install prebuilt binaries from GitHub. 从 GitHub 轻松安装预构建的二进制文件
-- [inhere/skillc](https://github.com/inhere/skillc) Single binary file, a local Skill management tool for the multi-Agent ecosystem. 单二进制文件，面向多 Agent 生态的本地 Skill 管理工具
-- [inhere/markview](https://github.com/inhere/markview) MarkView is a zero-config Markdown preview server powered by Go. 一个零配置的 Markdown 预览服务器，使用单个可执行程序提供功能。
-- [inhere/homepagex](https://github.com/inhere/homepagex) 一个非常轻量的类似 Homer 的导航主页，使用 Go + Svelte 实现
 
 
 ## Contribuited Projects
