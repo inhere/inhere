@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Inhere's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 832, Total Commits  (last year) : 2118, Total PRs: 337, Total Issues: 89, Contributed to (last year): 47</desc>
+        <desc id="descId">Total Stars Earned: 832, Total Commits  (last year) : 2125, Total PRs: 337, Total Issues: 89, Contributed to (last year): 47</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 11.378783097786243;
+        stroke-dashoffset: 11.376515644363849;
       }
     }
   
