@@ -34,15 +34,18 @@ Here are some ideas to get you started:
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Go](https://img.shields.io/badge/Go-blue?style=flat-square&logo=go)
 
-## Projects
+## 🛠️ Tools Projects
 
-### 🛠️ Small Tools 小工具
-
-- [inherelab/eget](https://github.com/inherelab/eget) ![GitHub Repo stars](https://img.shields.io/github/stars/inherelab/eget?style=flat-square) Easily install prebuilt binaries from GitHub. 从 GitHub, GitLab, Gitea 等轻松安装预构建的二进制文件
-- [inhere/skillc](https://github.com/inhere/skillc) ![GitHub Repo stars](https://img.shields.io/github/stars/inhere/skillc?style=flat-square) Single binary file, a local Skill management tool for the multi-Agent ecosystem. 单二进制文件，面向多 Agent 生态的本地 Skill 管理工具
-- [inhere/markview](https://github.com/inhere/markview) ![GitHub Repo stars](https://img.shields.io/github/stars/inhere/markview?style=flat-square) MarkView is a zero-config Markdown preview server powered by Go. 一个零配置的 Markdown 预览服务器，使用单个可执行程序提供功能。
-- [inhere/homepagex](https://github.com/inhere/homepagex) ![GitHub Repo stars](https://img.shields.io/github/stars/inhere/homepagex?style=flat-square)  一个非常轻量的类似 Homer 的导航主页，使用 Go + Svelte 实现
-- [gookit/miglite](https://github.com/gookit/miglite) ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/miglite?style=flat-square) 🚀 miglite is a lightweight and simplified database schema migration tool. Golang 实现的极简易用的数据库 Schema 迁移工具，无三方DB驱动依赖。
+| Repository | Stars | Description |
+|--------|-------|-------|
+| [inherelab/eget](https://github.com/inherelab/eget)  | ![GitHub Repo stars](https://img.shields.io/github/stars/inherelab/eget?style=flat-square) | Easily install prebuilt binaries from GitHub, GitLab, Gitea/Forgejo and SourceForge. 从 GitHub、GitLab、Gitea/Forgejo 和 SourceForge 轻松安装预构建的二进制文件
+| [inhere/gofer](https://github.com/inhere/gofer) | ![GitHub Repo stars](https://img.shields.io/github/stars/inhere/gofer?style=flat-square) | 在项目和远程worker之间，以异步作业形式运行CLI Agent和命令——采用HTTP/CLI/MCP控制平面，内置网页控制台。 |
+| [inhere/sshc](https://github.com/inhere/sshc) | ![GitHub Repo stars](https://img.shields.io/github/stars/inhere/sshc?style=flat-square) | 一个轻量 SSH 辅助 CLI，用于管理主机、执行远程命令、传输文件、在远端执行本地脚本，并按主机保存执行日志 |    
+| [inhere/xenv](https://github.com/inhere/xenv) | ![GitHub Repo stars](https://img.shields.io/github/stars/inhere/xenv?style=flat-square) | 一个本地开发环境管理工具，用于管理 SDK 版本、环境变量和 PATH 条目。它适合需要在多个项目之间切换不同工具链、运行时路径和本地环境配置的开发场景。 |
+| [inhere/skillc](https://github.com/inhere/skillc) | ![GitHub Repo stars](https://img.shields.io/github/stars/inhere/skillc?style=flat-square) | Single binary file, a local Skill management tool for the multi-Agent ecosystem. 单二进制文件，面向多 Agent 生态的本地 Skill 管理工具
+| [inhere/markview](https://github.com/inhere/markview) | ![GitHub Repo stars](https://img.shields.io/github/stars/inhere/markview?style=flat-square) | MarkView is a zero-config Markdown preview server powered by Go. 一个零配置的 Markdown 预览服务器，使用单个可执行程序提供功能。
+| [inhere/homepagex](https://github.com/inhere/homepagex) | ![GitHub Repo stars](https://img.shields.io/github/stars/inhere/homepagex?style=flat-square)  |  一个非常轻量的类似 Homer 的导航主页，使用 Go + Svelte 实现
+| [gookit/miglite](https://github.com/gookit/miglite) | ![GitHub Repo stars](https://img.shields.io/github/stars/gookit/miglite?style=flat-square)  | 🚀 miglite is a lightweight and simplified database schema migration tool. Golang 实现的极简易用的数据库 Schema 迁移工具，无三方DB驱动依赖。
 
 ## [Gookit](https://github.com/gookit) Projects
 
